@@ -12,3 +12,8 @@ Here are the specifications for my database
 * Address
 - Street
 - City
+- State
+- Zip
+
+### Info files
+HDL, LDL
