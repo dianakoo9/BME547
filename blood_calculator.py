@@ -1,3 +1,4 @@
+#read by partner Philjae (git collab exercise)
 def interface():
     print("Blood Test Analysis")
     keep_running = True
